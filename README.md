@@ -18,6 +18,7 @@
 
 После открытия и пополнения счета инвестор может выбирать нужные ему ценные бумаги и покупать их, а если точнее, то подать запрос на их покупку. Сами ценные бумаги покупает и продает непосредственно брокер. 
 
+![usecase_ba.png](https://github.com/ltempestas/Kurs/usecase_ba.png)
 
 Проблематика.
 
@@ -28,7 +29,9 @@
 Список литературы.
 1.	ГК РФ. Часть 1. Раздел 1. Подраздел 3. Статья 142 Ценные Бумаги: http://www.gk-rf.ru/statia142
 2.	Putting one-to-one marketing to work: Personalization, customization, and choice: 
+	
 	https://link.springer.com/article/10.1007/s11002-008-9056-z
+	
 	https://sci-hub.hkvisa.net/10.1007/s11002-008-9056-z
   
   
